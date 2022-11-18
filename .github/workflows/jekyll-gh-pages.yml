@@ -38,8 +38,7 @@ jobs:
             ${{ runner.os }}-node-
       - name: Install Dependencies
         if: steps.cache.outputs.cache-hit != 'true'
-        run: cd site
-        run: npm ci
+        run: cd site && npm ci
 
       - name: Deploy
         id: deploy
