@@ -50,6 +50,7 @@ jobs:
           deploy_key: ${{ secrets.HEXO_DEPLOY_KEY }}
           commit_msg: ${{ github.event.head_commit.message }}  # (or delete this input setting to use hexo default settings)
       # Use the output from the `deploy` step(use for test action)
+        working-directory: ${{ env.working-directory }}
       - name: Get the output
         run: |
           echo "${{ steps.deploy.outputs.notify }}"
