@@ -47,13 +47,13 @@ jobs:
       - name: Build
         run: npm run build
         working-directory: ${{ env.working-directory }}
-
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          source: ./site/public
+          destination: ./_site
   deploy:
     needs: build
-
-    permissions:
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
 
     # Deploy to the github-pages environment
     environment:
