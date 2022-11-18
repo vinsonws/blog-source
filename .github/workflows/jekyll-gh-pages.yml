@@ -50,8 +50,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          source: ./site/public
-          destination: ./_site
+          path: ./site/public
   deploy:
     needs: build
 
