@@ -51,6 +51,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git pull origin main
+        git add site/_config.volantis.yml
         git commit -m "daily image update"
     - name: GitHub Push
       uses: ad-m/github-push-action@v0.6.0
