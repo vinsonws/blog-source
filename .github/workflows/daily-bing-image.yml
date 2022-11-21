@@ -1,13 +1,10 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
-
 name: Daily Bing Image Update
 
-#on:
-#  schedule:
-#    - cron:  '0 6 * * *'
+on:
+  schedule:
+    - cron:  '0 6 * * *'
 
-on: workflow_dispatch
+  workflow_dispatch:
   
 
 jobs:
@@ -41,6 +38,13 @@ jobs:
         with open(file_name, 'w') as fp:
           yaml.dump(config, fp)
       shell: python
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git pull origin main
+        git add -u
+        git commit -m "daily image update"
     - name: GitHub Push
       uses: ad-m/github-push-action@v0.6.0
       with:
