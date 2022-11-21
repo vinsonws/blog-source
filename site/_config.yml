@@ -8,7 +8,9 @@ subtitle: 'Hello'
 description: '🙄🙄🙄🙄'
 keywords:
 author: vinsonws
-language: zh-CN
+language: 
+  - zh-CN
+  - en
 timezone: 'Asia/Shanghai'
 
 # URL
