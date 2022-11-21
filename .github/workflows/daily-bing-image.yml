@@ -30,7 +30,7 @@ jobs:
         pip install requests
         pip install ruamel.yaml
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: download images
+    - name: Update Image
       run: |
         import requests
         import ruamel.yaml
@@ -46,6 +46,12 @@ jobs:
         with open(file_name, 'w') as fp:
           yaml.dump(config, fp)
       shell: python
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git pull origin main
+        git commit -m "daily image update"
     - name: GitHub Push
       uses: ad-m/github-push-action@v0.6.0
       with:
