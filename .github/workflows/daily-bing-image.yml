@@ -11,10 +11,8 @@ on: workflow_dispatch
   
 
 jobs:
-  build:
-
+  update:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
@@ -43,13 +41,6 @@ jobs:
         with open(file_name, 'w') as fp:
           yaml.dump(config, fp)
       shell: python
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git pull origin main
-        git add site/_config.volantis.yml
-        git commit -m "daily image update"
     - name: GitHub Push
       uses: ad-m/github-push-action@v0.6.0
       with:
