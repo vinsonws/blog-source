@@ -20,9 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: Kickoff in Qatar
-  subtitle: Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via
-    Getty Images)
+  title: 令人陶醉的海岛花园
+  subtitle: 伊索拉贝拉岛，意大利马焦雷湖 (© Massimo Ripani/eStock)
   features:
     # - name: 首页
     #   icon: fa-light fa-home CARROT 
@@ -330,4 +329,4 @@ plugins:
     duration: 10000       # Duration (ms)
     fade: 1500            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
