@@ -2,7 +2,7 @@ name: Daily Bing Image Update
 
 on:
   schedule:
-    - cron:  '0 6 * * *'
+    - cron:  '0 0 * * *'
 
   workflow_dispatch:
   
@@ -47,7 +47,7 @@ jobs:
         git pull origin main
         git commit -m "daily image update" site/_config.volantis.yml || echo "Nothing to update"
     - name: GitHub Push
-      uses: ad-m/github-push-action@v0.6.0
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
