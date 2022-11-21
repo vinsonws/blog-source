@@ -20,9 +20,9 @@ cover:
     home: true
     archive: true
     others: true
-  title: Creating a better world
-  subtitle: "'World in Progress II,' a land art painting by Saype, United Nations\
-    \ Headquarters, New York City (© Valentin Flauraud/Shutterstock)"
+  title: Kickoff in Qatar
+  subtitle: Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via
+    Getty Images)
   features:
     # - name: 首页
     #   icon: fa-light fa-home CARROT 
@@ -330,4 +330,4 @@ plugins:
     duration: 10000       # Duration (ms)
     fade: 1500            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
