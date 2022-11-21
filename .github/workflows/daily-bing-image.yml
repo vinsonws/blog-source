@@ -43,7 +43,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git pull origin main
-        git commit -m "daily image update"
+        git commit -m "Update by GitHub Action for ${{matrix.symbol}}" *.json || echo "Nothing to update"
     - name: GitHub Push
       uses: ad-m/github-push-action@v0.6.0
       with:
