@@ -26,8 +26,10 @@ jobs:
       run: |
         import requests
         import ruamel.yaml
-        resp = requests.get("https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160")
+        import json
+        resp = requests.get("https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160")
         info = resp.json()['images'][0]
+        print(json.dumps(info, indent=2))
         file_name = 'site/_config.volantis.yml'
         yaml = ruamel.yaml.YAML()
         config = yaml.load(open(file_name, 'r'))
