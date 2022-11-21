@@ -32,26 +32,20 @@ cover:
 
 ############################### Sidebar ############################### > start
 sidebar:
-  position: left # left right
-  # 主页、分类、归档等独立页面
-  # for_page: [blogger, category, tagcloud, donate]
-  # # layout: docs/post 这类文章页面
-  # for_post: [toc]
-
-  for_page: [blogger, navigation, webinfo]
-  for_post: [navigation, toc, webinfo]
+  position: left
+  for_page: [blogger, navigation,lastupdate, webinfo,, ]
+  for_post: [navigation, toc,lastupdate, webinfo]
   # 侧边栏组件库
   widget_library:
     # ---------------------------------------
-    # blogger info widget
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
-      shape: rectangle # circle, rectangle
+      avatar: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png 
+      shape: circle # circle, rectangle
       url: /about/
-      title:
-      subtitle:
+      title: Vinsonws
+      subtitle: 文森🐷°
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social:
       - icon: fa-solid fa-rss
@@ -104,15 +98,6 @@ sidebar:
       start_color: '#999'
       end_color: '#555'
     # ---------------------------------------
-    # qrcode widget
-    qrcode:
-      class: qrcode
-      display: [desktop, mobile] # [desktop, mobile]
-      height: 64px  # Automatic height if not set
-      images:
-      - volantis-static/media/org.volantis/blog/qrcode/github@volantis.png   # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
-      - volantis-static/media/org.volantis/blog/qrcode/github@volantis.png   # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
-    # ---------------------------------------
     # webinfo widget
     webinfo:
       class: webinfo
@@ -151,26 +136,35 @@ sidebar:
     # lastupdate widget
     lastupdate:
       class: lastupdate
-      display: [desktop, mobile]
+      display: [desktop]
       header:
         icon: fa-solid fa-clock WISTERIA
         title: 最近更新
+    # copyright_info:
+    #   class: copyright_info
+    #   display: [desktop, mobile]
+    #   header:
+    #     icon: fa-solid fa-clock WISTERIA
+    #     title: Copyright
+    #   license:
+    #   copyright: 2021-2022 Vinsonws. All Rights Reserved.
+
 ############################### Sidebar ############################### > end
 
-site_footer:
-  # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [license, copyright]
-  # social:
-  #   - icon: fas fa-rss
-  #     url: atom.xml
-  #   - icon: fas fa-envelope
-  #     url: mailto:me@xaoxuu.com
-  #   - icon: fab fa-github
-  #     url: https://github.com/xaoxuu
-  #   - icon: fas fa-headphones-alt
-  #     url: https://music.163.com/#/user/home?id=63035382
-  copyright: 2021-2022 Vinsonws. All Rights Reserved.
-  br: <br>
+# site_footer:
+#   # layout of footer: [aplayer, social, license, info, copyright]
+#   layout: [license, copyright]
+#   # social:
+#   #   - icon: fas fa-rss
+#   #     url: atom.xml
+#   #   - icon: fas fa-envelope
+#   #     url: mailto:me@xaoxuu.com
+#   #   - icon: fab fa-github
+#   #     url: https://github.com/xaoxuu
+#   #   - icon: fas fa-headphones-alt
+#   #     url: https://music.163.com/#/user/home?id=63035382
+#   copyright: 2021-2022 Vinsonws. All Rights Reserved.
+#   br: <br>
 
 search:
   enable: true
@@ -193,13 +187,13 @@ custom_css:
     logofont:
       fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
       name: Varela Round
-      url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+      url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf 
       weight: normal
       style: normal
     bodyfont:
       fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
       name: Varela Round
-      url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+      url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf 
       weight: normal
       style: normal
     codefont:
