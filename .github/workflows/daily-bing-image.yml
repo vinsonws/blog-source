@@ -33,6 +33,7 @@ jobs:
     - name: download images
       run: |
         import requests
+        import ruamel.yaml
         resp = requests.get("https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160")
         info = resp.json()['images'][0]
         file_name = 'site/_config.volantis.yml'
