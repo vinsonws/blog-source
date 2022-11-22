@@ -23,8 +23,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 令人陶醉的海岛花园
-  subtitle: 伊索拉贝拉岛，意大利马焦雷湖 (© Massimo Ripani/eStock)
+  title: 赤狐
+  subtitle: 阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰 (© Edwin Giesbers/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -37,12 +37,12 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png 
+      avatar: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png
       shape: circle # circle, rectangle
       url: /about/
       title: Vinsonws
       subtitle: 文森🐷°
-      jinrishici: true 
+      jinrishici: true
       social:
       - icon: fab fa-github
         url: https://github.com/vinsonws
@@ -120,9 +120,9 @@ sidebar:
 ############################### Sidebar ############################### > end
 
 site_footer:
-  layout: [license, copyright,ICP]
+  layout: [license, copyright, ICP]
   copyright: '[Copyright © 2021-2022 Vinsonws. All Rights Reserved.](/)'
-  ICP: '[蜀ICP备2022001093号-1](https://beian.miit.gov.cn/#/Integrated/index)' 
+  ICP: '[蜀ICP备2022001093号-1](https://beian.miit.gov.cn/#/Integrated/index)'
 #   br: <br>
 
 search:
@@ -146,13 +146,13 @@ custom_css:
     logofont:
       fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
       name: Varela Round
-      url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf 
+      url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf
       weight: normal
       style: normal
     bodyfont:
       fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
       name: Varela Round
-      url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf 
+      url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf
       weight: normal
       style: normal
     codefont:
@@ -267,7 +267,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   # lazyload:
