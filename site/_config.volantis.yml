@@ -23,8 +23,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 赤狐
-  subtitle: 阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰 (© Edwin Giesbers/Minden Pictures)
+  title: 自然、艺术和数学
+  subtitle: 向日葵 (© Dileep Chandran/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -267,7 +267,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   # lazyload:
