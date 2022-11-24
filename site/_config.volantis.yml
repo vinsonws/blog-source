@@ -1,8 +1,5 @@
 navbar:
   visiable: auto # always, auto
-  width: auto # auto, max
-  # effect: [shadow, floatable, blur]
-  effect: [shadow, blur]
   logo: # choose [img] or [icon + title]
     img: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
     icon:
@@ -132,7 +129,7 @@ custom_css:
       h4: left
       p: justify
   sidebar:
-    effect: [shadow, blur]
+    effect: [shadow, floatable]
   fontfamily:
     logofont:
       fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
