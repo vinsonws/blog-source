@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 自然、艺术和数学
-  subtitle: 向日葵 (© Dileep Chandran/Alamy)
+  title: 令人惊叹的山顶美景
+  subtitle: 坎彭万德山，基姆高地区阿绍，德国巴伐利亚州 (© Toni Anzenberger/plainpicture)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -79,10 +79,10 @@ sidebar:
         visitcounter:
           enable: false
           siteuv:
-            text: '本站访客数：'
+            text: 本站访客数：
             unit: ''
           sitepv:
-            text: '本站总访问量：'
+            text: 本站总访问量：
             unit: ''
         lastupd:
           enable: true
@@ -104,7 +104,7 @@ site_footer:
   layout: [license, mycopyright, ICP, BING]
   mycopyright: '[Copyright © 2021-2022 Vinsonws. All Rights Reserved.](/)'
   ICP: '[蜀ICP备2022001093号-1](https://beian.miit.gov.cn/#/Integrated/index)'
-  BING: '背景图片来自[必应](https://www.bing.com/)'
+  BING: 背景图片来自[必应](https://www.bing.com/)
 #   br: <br>
 
 search:
@@ -221,7 +221,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   # lazyload:
