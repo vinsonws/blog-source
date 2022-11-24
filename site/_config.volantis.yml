@@ -74,13 +74,19 @@ sidebar:
           text: 文章数目：
           unit: ''
         wordcount:
-          enable: false
+          enable: true
           text: 本站总字数：     # 需要启用 wordcount
           unit: ''
         runtime:
           enable: false
         visitcounter:
           enable: false
+          siteuv:
+            text: '本站访客数：'
+            unit: ''
+          sitepv:
+            text: '本站总访问量：'
+            unit: ''
         lastupd:
           enable: true
           friendlyShow: true    # 更友好的时间显示
@@ -94,35 +100,14 @@ sidebar:
       header:
         icon: fa-solid fa-clock WISTERIA
         title: 最近更新
-    # footer:
-    #   class: list
-    #   sticky: true
-    #   display: [desktop]
-    #   header:
-    #     icon: fa-solid fa-clock WISTERIA
-    #     title: 备案信息
-    #   rows:
-    #   - name: 蜀ICP备2022001093号-1
-    #     url: https://beian.miit.gov.cn/#/Integrated/index
-    #   license:
-    #   copyright: 2021-2022 Vinsonws. All Rights Reserved.
-    # copyright:
-    #   sticky: true
-    #   class: text
-    #   display: [desktop]
-    #   header:
-    #     icon: fa-sharp fa-solid fa-copyright WISTERIA
-    #     title: 版权说明
-    #   content:
-    #     - '[蜀ICP备2022001093号-1](https://beian.miit.gov.cn/#/Integrated/index)'
-    #     - 'Copyright © 2021-2022 Vinsonws. All Rights Reserved.'
 
 ############################### Sidebar ############################### > end
 
 site_footer:
-  layout: [license, copyright, ICP]
-  copyright: '[Copyright © 2021-2022 Vinsonws. All Rights Reserved.](/)'
+  layout: [license, mycopyright, ICP, BING]
+  mycopyright: '[Copyright © 2021-2022 Vinsonws. All Rights Reserved.](/)'
   ICP: '[蜀ICP备2022001093号-1](https://beian.miit.gov.cn/#/Integrated/index)'
+  BING: '背景图片来自[必应](https://www.bing.com/)'
 #   br: <br>
 
 search:
@@ -130,9 +115,13 @@ search:
   service: hexo
 
 custom_css:
+  navbar:
+    height: 64px
+    width: auto # auto, max
+    effect: [shadow, blur] # [shadow, floatable, blur]
   font_smoothing: true # font-smoothing for webkit
   body:
-    effect: [shadow] # [shadow, floatable, blur]
+    effect: [shadow, floatable] # [shadow, floatable, blur]
     highlight:
       language: true # show language of codeblock
       copy_btn: true
@@ -142,6 +131,8 @@ custom_css:
       h3: left
       h4: left
       p: justify
+  sidebar:
+    effect: [shadow, blur]
   fontfamily:
     logofont:
       fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
@@ -156,24 +147,27 @@ custom_css:
       weight: normal
       style: normal
     codefont:
-      fontfamily: Menlo, UbuntuMono, Monaco
+      fontfamily: JetbrainsMono, Menlo, UbuntuMono, Monaco
+  scrollbar:
+    size: 4px
+    border: 2px
 
 color_scheme:
   # ------------
   # 通用颜色
   common:
     # 主题色
-    theme: '#44D7B6'
+    theme: '#969696'
     # 链接色
-    link: '#2196f3'
+    link: '#808080'
     # 按钮色
-    button: '#44D7B6'
+    button: '#808080'
     # 鼠标放到交互元素上时的色
-    hover: '#ff5722'
+    hover: '#303030'
     # 主题色块内部的文字颜色
-    inner: '#fff'
+    inner: '#444'
     # 选中区域文字的背景颜色
-    selection: alpha(#2196f3, 0.2)
+    selection: alpha($color-theme, 0.2)
   # ------------
   # 亮色主题（默认）
   light:
@@ -182,17 +176,18 @@ color_scheme:
     # 网站背景上的文字
     site_inner: '#fff'
     # 网站页脚文字
-    site_footer: '#666'
+    site_footer: '#fff'
 
     # 卡片背景色
-    card: '#fff'
+    # card: alpha(#263238, 0.7)
+    card: '#f4f4f4'
     # 卡片上的普通文字
     text: '#444'
 
     # 区块和代码块背景色
-    block: '#f6f6f6'
+    block: '#EAEAEA'
     # 代码块高亮时的背景色
-    codeblock: '#FFF7EA'
+    codeblock: '#EFEFEF'
     # 行内代码颜色
     inlinecode: '#D56D28'
 
@@ -208,48 +203,10 @@ color_scheme:
     # 列表文字
     list: '#666'
     # 列表 hover 时的文字
-    list_hl: 'mix($color-theme, #000, 80)'
+    list_hl: 'mix($color-inner, #000, 80)'
     # 辅助性文字
     meta: '#888'
   # ------------
-  # 暗色主题
-  dark:
-    # 网站背景色
-    site_bg: '#222'
-    # 网站背景上的文字
-    site_inner: '#eee'
-    # 网站页脚文字
-    site_footer: '#aaa'
-    # 卡片背景色
-    card: '#444'
-    # 卡片上的普通文字
-    text: '#eee'
-
-    # 区块和代码块背景色
-    block: '#3a3a3a'
-    # 代码块高亮时的背景色
-    codeblock: '#343a3c'
-    # 行内代码颜色
-    inlinecode: '#D56D28'
-
-    # 文章部分
-    h1: '#eee'
-    h2: '#eee'
-    h3: '#ddd'
-    h4: '#ddd'
-    h5: '#ddd'
-    h6: '#ddd'
-    p: '#bbb'
-
-    # 列表文字
-    list: '#aaa'
-    # 列表 hover 时的文字
-    list_hl: 'mix($color-theme, #fff, 80)'
-    # 辅助性文字
-    meta: '#888'
-    # 夜间图片亮度
-    brightness: 70%
-
 plugins:
   code_highlight: highlightjs # highlightjs or prismjs
   highlightjs:
