@@ -4,13 +4,13 @@ name: Blog Pages Upload Tencent AOS
 
 on:
   # Runs on pushes targeting the default branch
-  push:
-    paths: 
-      - 'site/**'
-  workflow_run:
-    workflows: ["Daily Bing Image Update"]
-    types:
-      - completed
+#   push:
+#     paths: 
+#       - 'site/**'
+#   workflow_run:
+#     workflows: ["Daily Bing Image Update"]
+#     types:
+#       - completed
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
