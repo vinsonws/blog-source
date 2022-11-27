@@ -35,7 +35,7 @@ jobs:
         config = yaml.load(open(file_name, 'r'))
         config['cover']['title'] = info['title']
         config['cover']['subtitle'] = info['copyright']
-        config['plugins']['parallax']['images']=['https://bing.com' + info['url']]
+        config['plugins']['parallax']['images']=['https://cn.bing.com' + info['url']]
         yaml.preserve_quotes = True
         with open(file_name, 'w') as fp:
           yaml.dump(config, fp)
