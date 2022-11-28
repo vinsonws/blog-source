@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 不可思议的树叶
-  subtitle: 一片飘落在龙虾爪瓣上的号角树树叶，墨西哥 (© Gerry Ellis/Minden Pictures)
+  title: 太阳系的第四颗行星
+  subtitle: 火星（© NASA/Alamy）
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -221,7 +221,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   # lazyload:
