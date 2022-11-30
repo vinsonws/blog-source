@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 付出和给予的一天
-  subtitle: 正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国 (© Imagebroker/Alamy)
+  title: 亚得里亚海边的明珠
+  subtitle: 罗维尼老城，克罗地亚 (© trabantos/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -221,7 +221,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   # lazyload:
