@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 南极洲
-  subtitle: 天堂湾，南极洲 (© SinghaphanAllB/Getty Images)
+  title: 保护阿拉斯加的自然之美
+  subtitle: 特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国 (© Dawn Wilson Photography/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -221,7 +221,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5878485421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   # lazyload:
