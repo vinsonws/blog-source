@@ -56,6 +56,13 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./site/public
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: blog-build-result
+          path: ./site/public
+          retention-days: 5
+          
   deploy:
     needs: build
 
@@ -71,3 +78,30 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
 
+  aos-deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Download artifacts
+      uses: actions/download-artifact@v3
+      with:
+        name: blog-build-result
+    - name: 安装腾讯云依赖
+      run: |
+        sudo pip install coscmd
+        sudo pip install tccli
+    - name: 配置腾讯云依赖
+      env:
+        SECRET_ID: ${{ secrets.TENCENT_SECRET_ID }}
+        SECRET_KEY: ${{ secrets.TENCENT_SECRET_KEY }}
+        BUCKET: github-blog-1302453266 #改为自己的存储桶名称
+        REGION: ap-chengdu #改为自己的地域
+      run: |
+        coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
+        tccli configure set secretId $SECRET_ID
+        tccli configure set secretKey $SECRET_KEY
+        tccli configure set region $REGION
+    - name: 上传到腾讯云COS并刷新CDN
+      # tccli cdn PurgePathCache --cli-unfold-argument --Paths https://blog.vinsonws.cn/ --FlushType flush
+      run: |
+        coscmd upload -rfs --delete ./ /
