@@ -64,7 +64,6 @@ jobs:
         name: blog-build-result
     - name: Display structure of downloaded files
       run: ls -R
-      working-directory: path/to/artifact
     - name: 安装腾讯云依赖
       run: |
         sudo pip install coscmd
