@@ -56,8 +56,6 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-    - name: 检出仓库代码
-      uses: actions/checkout@master
     - name: Download artifacts
       uses: actions/download-artifact@v3
       with:
