@@ -96,7 +96,7 @@ include:
 exclude:
 ignore:
 
-favicon: https://gcore.jsdelivr.net/gh/xaoxuu/assets@master/favicon/favicon.ico
+favicon: icon/favicon/logo-128x128.ico
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/

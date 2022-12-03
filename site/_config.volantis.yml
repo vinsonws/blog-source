@@ -1,7 +1,7 @@
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+    img: img/avatar/logo.png # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
     icon:
     title:
   menu:
@@ -34,12 +34,12 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png
+      avatar: img/avatar/wxattawsy.jpg
       shape: circle # circle, rectangle
       url: /about/
       title: Vinsonws
       subtitle: 文森🐷°
-      jinrishici: true
+      jinrishici: false
       social:
       - icon: fab fa-github
         url: https://github.com/vinsonws
