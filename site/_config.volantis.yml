@@ -38,7 +38,7 @@ sidebar:
       shape: circle # circle, rectangle
       url: /about/
       title: Vinsonws
-      subtitle: 文森🐷°
+      subtitle: 🐷
       jinrishici: false
       social:
       - icon: fab fa-github
@@ -160,7 +160,7 @@ color_scheme:
     # 按钮色
     button: '#808080'
     # 鼠标放到交互元素上时的色
-    hover: '#303030'
+    hover: '#C0C0C0'
     # 主题色块内部的文字颜色
     inner: '#444'
     # 选中区域文字的背景颜色
@@ -169,7 +169,7 @@ color_scheme:
   # 亮色主题（默认）
   light:
     # 网站背景色
-    site_bg: '#f4f4f4'
+    site_bg: '#DDDDDD'
     # 网站背景上的文字
     site_inner: '#fff'
     # 网站页脚文字
