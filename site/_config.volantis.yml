@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 象群在路上
-  subtitle: 乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚 (© Diana Robinson Photography/Getty Images)
+  title: 绿意盎然
+  subtitle: 古瓦哈提的竹子，印度阿萨姆邦 (© Page Bazar/500px/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -221,7 +221,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   # lazyload:
