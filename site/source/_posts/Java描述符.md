@@ -1,7 +1,12 @@
 ---
-title: Java描述符
-date: 2022-10-04 16:21:36
-tags:
+layout:   post
+author:   vinsonws
+title:    Java描述符
+date:     2022-10-04 16:21:36
+tags: 
+  - Java
+  - Java 类文件
+  - Java Class
 ---
 
 # Java Class 描述符
@@ -29,7 +34,6 @@ BaseType 是 Field 的基本类型，它是下面类型中的一种。
 | short           | S           |
 | boolean         | Z           |
 
-
 **例子：**
 
 int i 中，i 描述符就为 I
@@ -52,11 +56,9 @@ Object o，o 描述符就为 Ljava/lang/Object
 | --------------- | ----------- |
 | reference array | [           |
 
-
 例子：
 
 double[][][] array，o 描述符就为 [[[D
-
 
 ## Method（方法）
 
