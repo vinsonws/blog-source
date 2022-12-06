@@ -330,7 +330,7 @@ color_scheme:
     # 按钮色
     button: '#808080'
     # 鼠标放到交互元素上时的色
-    hover: '#A0A0A0'
+    hover: '#4B4B4B'
     # 主题色块内部的文字颜色
     inner: '#F0F0F0'
     # 选中区域文字的背景颜色
