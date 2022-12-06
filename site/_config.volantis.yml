@@ -330,9 +330,9 @@ color_scheme:
     # 按钮色
     button: '#808080'
     # 鼠标放到交互元素上时的色
-    hover: '#C0C0C0'
+    hover: '#A0A0A0'
     # 主题色块内部的文字颜色
-    inner: '#444'
+    inner: '#F0F0F0'
     # 选中区域文字的背景颜色
     selection: alpha($color-theme, 0.2)
   # ------------
@@ -370,7 +370,7 @@ color_scheme:
     # 列表文字
     list: '#666'
     # 列表 hover 时的文字
-    list_hl: 'mix($color-inner, #000, 80)'
+    list_hl: '#222'
     # 辅助性文字
     meta: '#888'
   # ------------
@@ -393,6 +393,8 @@ plugins:
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
     - https://cn.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
+    enable: true
+  busuanzi: 
     enable: true
   # lazyload:
   #   enable: true

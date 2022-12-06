@@ -7,6 +7,8 @@ tags:
   - Java
   - Java 类文件
   - Java Class
+plugins:
+  - indent
 ---
 
 # Java Class 描述符
