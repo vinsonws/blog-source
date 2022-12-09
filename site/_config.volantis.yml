@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 这些古老的动物是什么？
-  subtitle: 多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威 (© Robert Haasmann/Minden Pictures)
+  title: 一小撮盐可不够
+  subtitle: 玻利维亚的乌尤尼盐沼 (© Theo Allofs/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -391,7 +391,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.NorwayMuskox_ZH-CN6137934745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SaltDesert_ZH-CN4728398785_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
