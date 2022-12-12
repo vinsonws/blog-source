@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 假日色调
-  subtitle: 一品红 (© Elizabeth Fernandez/Getty Images)
+  title: 哈尔施塔特，奥地利
+  subtitle: 哈尔施塔特，奥地利 (© Jon Arnold Images Ltd/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -283,18 +283,18 @@ comments:
   service: giscus
   giscus:
     # 以下配置按照 yml 格式增删填写即可
-    repo: 'vinsonws/blog-comments'
+    repo: vinsonws/blog-comments
     repo-id: R_kgDOImdndA
     category: General
     category-id: DIC_kwDOImdndM4CTB88
-    mapping: "pathname"
-    reactions-enabled: "1"
-    emit-metadata: "0"
-    input-position: "top"
-    lang: "zh-CN"
+    mapping: pathname
+    reactions-enabled: '1'
+    emit-metadata: '0'
+    input-position: top
+    lang: zh-CN
     loading: lazy
     theme:
-      light: "light"
+      light: light
 search:
   enable: true
   service: hexo
@@ -352,7 +352,7 @@ color_scheme:
     # 主题色块内部的文字颜色
     inner: '#fff'
     # 选中区域文字的背景颜色
-    selection: 'alpha(#2196f3, 0.2)'
+    selection: alpha(#2196f3, 0.2)
   # ------------
   # 亮色主题（默认）
   light:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
