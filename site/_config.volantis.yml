@@ -279,7 +279,7 @@ article:
 
 comments:
   title: <i class='fas fa-comments'></i> 评论
-  subtitle: 发现文章有误请指出，感谢你友善的评论😙。
+  subtitle: 发现文章有误欢迎指出，感谢你友善的评论😙。
   service: giscus
   giscus:
     # 以下配置按照 yml 格式增删填写即可
