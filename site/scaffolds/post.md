@@ -8,8 +8,9 @@ archive: true        # 是否显示在归档
 cover: false         # 是否显示封面
 mathjax: false       # 是否渲染公式
 pin: false           # 是否首页置顶
-top_meta: false      # 是否显示顶部信息
-bottom_meta: false   # 是否显示尾部信息
+author:   vinsonws
+top_meta: true      # 是否显示顶部信息
+bottom_meta: true   # 是否显示尾部信息
 # sidebar: [toc]
 tag:                  # 标签
 categories:           # 分组

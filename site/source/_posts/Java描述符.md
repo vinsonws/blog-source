@@ -12,9 +12,6 @@ tags:
 plugins:
   - indent
 ---
-
-# Java Class 描述符
-
 Java class 描述符分为 Field 描述符和 Method 描述符。
 
 ## Field（域）
