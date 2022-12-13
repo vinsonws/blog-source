@@ -371,7 +371,7 @@ color_scheme:
     # 区块和代码块背景色
     block: '#f6f6f6'
     # 代码块高亮时的背景色
-    codeblock: '#FFF7EA'
+    codeblock: '#f6f6f6'
     # 行内代码颜色
     inlinecode: '#c74f00'
 

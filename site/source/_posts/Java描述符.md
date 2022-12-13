@@ -11,6 +11,7 @@ tags:
   - Java Class
 plugins:
   - indent
+mathjax: false
 ---
 Java class 描述符分为 Field 描述符和 Method 描述符。
 
