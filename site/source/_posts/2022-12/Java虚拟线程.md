@@ -312,7 +312,7 @@ JFR 通过几个新事件支持虚拟线程：
 
 ### 接口使用
 
-```java 创建虚拟线程
+```java Thread 创建虚拟线程
 Thread.ofVirtual().start(() -> System.out.println("Virtual"));
 ```
 
@@ -327,13 +327,14 @@ try (var executor = Executors.newVirtualThreadPerTaskExecutor()) {
 }
 ```
 
-{% note warning::虚拟线程的创建销魂开销很低，池化没有意义，`Executors.newVirtualThreadPerTaskExecutor()`也是每次创建的新虚拟线程 %}
+{% note warning::虚拟线程的创建销毁开销很低，池化没有意义，`Executors.newVirtualThreadPerTaskExecutor()`也是每次创建的新虚拟线程 %}
 
 
 ### 性能测试
 
-
-```java 测试代码
+{% tabs benchmark %}
+<!-- tab 测试代码 -->
+```java 分别测试7个数量级的数据，查看执行时间
 public class Main {
     public static void main(String[] args) {
         fiber(10);
@@ -359,8 +360,17 @@ public class Main {
         System.out.println(String.valueOf(num) + " : " + String.valueOf(System.currentTimeMillis() - start));
     }
 }
-
 ```
+<!-- endtab -->
+<!-- tab 测试结果 -->
+{% image /img/post/2022-12/test-vt.jpg::alt=测试结果 %}
+
+1. 在执行次数10000及以下时执行时间仅有的1s，令人震惊。
+2. 在1000000的时候执行时间翻倍，这或许和虚拟线程的调度机制有关，目前暂时不了解。
+3. 在10000000时，我运行了15个小时也没出结果，而且CPU一直时满负荷状态。这可能时JDK的一个BUG。
+
+<!-- endtab -->
+{% endtabs %}
 
 ## 时间线
 
