@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 法国阿尔卑斯山的明珠
-  subtitle: 安纳西，法国上瓦萨省 (© Sabine Klein/Alamy)
+  title: 南极洲的巴布亚企鹅
+  subtitle: 南极洲的巴布亚企鹅 (© Nature Picture Library/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.AnnecyXmas_ZH-CN2540694929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.GentooGrievances_ZH-CN2875292726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
