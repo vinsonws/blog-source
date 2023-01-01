@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 在北极附近打盹
-  subtitle: 北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images)
+  title: 正如童话一般
+  subtitle: 霍亨索伦城堡，德国 (© Sahara Prince/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
