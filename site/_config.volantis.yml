@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 我们去哪里玩？
-  subtitle: 科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock)
+  title: 神奇水牛在哪里？
+  subtitle: 南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
