@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 当冰块变成了艺术
-  subtitle: 爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures)
+  title: 到灯塔去！
+  subtitle: 戈德雷维灯塔，英国康沃尔郡 (© Paul Nash/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
