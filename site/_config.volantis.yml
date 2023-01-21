@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 爆竹声中一岁除
-  subtitle: 除夕夜的中国新年灯笼 (© Toa55/Getty Images)
+  title: 春节快乐，兔年大吉！
+  subtitle: 春节的桃花和红灯笼 (© David Ng+EyeEm/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ChineseNewYearEve2023_ZH-CN7188893388_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ChineseSpringFestival2023_ZH-CN7281854882_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
