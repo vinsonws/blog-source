@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 摩艾石像
-  subtitle: 复活节岛上的摩艾石像，智利 (© Karine Aigner/Tandem Stills + Motion)
+  title: 明信片和雪花球的取景地
+  subtitle: 多洛米蒂山谷中的科莱圣卢恰小镇，意大利 (© mauritius images GmbH/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
