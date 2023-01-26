@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 通往天门的阶梯
-  subtitle: 天门洞，湖南天门山国家森林公园，中国 (© Shane P. White/Minden Pictures)
+  title: 向伟大的红树林致敬！
+  subtitle: 瓜纳阿卡维韦斯半岛国家公园的红树林，古巴 (© Claudio Contreras/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.RedMangrove_ZH-CN4083989028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
