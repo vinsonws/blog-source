@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 像极了艺术画作的真实照片
-  subtitle: 从国际空间站看到的巴哈马周围的蓝绿色水域 (© NASA)
+  title: 为什么乌鸫与冬天联系紧密？
+  subtitle: 埃塞克斯的乌鸫，英国 (© Bill Coster/Alamy Stock Photo)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BlueBahamas_ZH-CN2083290847_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BlackbirdDay_ZH-CN2291101162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
