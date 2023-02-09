@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 这些美丽的岩石波浪是什么？
-  subtitle: 下羚羊峡谷，亚利桑那州，美国 (© AZCat/Getty Images)
+  title: 声学杰作
+  subtitle: 埃庇道鲁斯剧场, 希腊阿尔戈利斯省 (© George Pachantouris/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
