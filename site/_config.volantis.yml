@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 一张来自意大利的明信片
-  subtitle: 阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)
+  title: 纪念硬币上的著名建筑
+  subtitle: 吕贝克的霍尔斯滕门，德国 (© Harald Nachtmann/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
