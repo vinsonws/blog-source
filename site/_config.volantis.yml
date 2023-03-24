@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 你见过大蒜开花吗？
-  subtitle: 盛开的野蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images)
+  title: 通往天堂的楼梯？
+  subtitle: 塞西尔布鲁尔楼梯，伦敦，英国 (© Yiran An/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
