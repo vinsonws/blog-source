@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 追逐彩虹
-  subtitle: 大岛上的霍瑙瑙国家历史公园，夏威夷 (© Westend61/Getty Images)
+  title: 这座古桥在哪呢？
+  subtitle: 科尔多瓦的古罗马桥，西班牙 (© Jeremy Woodhouse/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
