@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 这座古桥在哪呢？
-  subtitle: 科尔多瓦的古罗马桥，西班牙 (© Jeremy Woodhouse/Getty Images)
+  title: 水墨西湖
+  subtitle: 杭州西湖水墨意境般的风景，浙江省，中国 (© zhangshuang/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
