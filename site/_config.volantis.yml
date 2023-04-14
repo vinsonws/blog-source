@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 日光下的星星
-  subtitle: 红海星, 地中海 (© Hans Leijnse/Minden Pictures)
+  title: 宏伟的堡垒和宫殿
+  subtitle: 从纳哈加尔城堡鸟瞰斋浦尔，印度 (© Sean3810/iStock/Getty Images Plus)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
