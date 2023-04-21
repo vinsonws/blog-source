@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 充满活力、阳光普照的岛屿
-  subtitle: 普罗奇达岛，意大利 (© Sean Pavone/Shutterstock)
+  title: 国家公园中狡猾的常住居民
+  subtitle: 岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州 (© Ian Shive/Tandem Stills + Motion)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
