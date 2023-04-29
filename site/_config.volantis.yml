@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 沙漠上空的星海
-  subtitle: 约书亚树国家公园上空的银河，美国加利福尼亚州 (© Schroptschop/Getty Images)
+  title: 伟大的遗迹
+  subtitle: 塞利努斯的神庙，西西里岛，意大利 (© Antonino Bartuccio/eStock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
