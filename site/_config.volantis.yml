@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 金光中的灯塔
-  subtitle: 科尔杜昂灯塔，罗扬市，夏朗德省，法国 (© FRTimelapse/Getty Images)
+  title: 这个体育场建在你意想不到的地方
+  subtitle: 亨宁斯韦尔体育场，挪威 (© Morten Falch Sortland/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.CordouanLighthouse_ZH-CN6267155218_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.FootballField_ZH-CN6439594719_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
