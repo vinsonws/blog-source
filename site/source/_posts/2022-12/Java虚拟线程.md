@@ -36,12 +36,12 @@ references:
   - title: 'JDK 19 Features'
     url: https://openjdk.org/projects/jdk/19/
 ---
-从Project Loom诞生以来，社区都非常关注Java中协程的实现，终于在JDK 19中以预览API的形式开放使用。
+从Project Loom诞生以来，社区都非常关注Java中协程的实现，终于在JDK 19中以预览API的形式开放使用。JDK 21 的 Features 已经正式包含了 [JEP 444: Virtual Threads](https://openjdk.org/jeps/444) ，这意味着在下一个LTS版本（JDK 23）虚拟线程将正式投入大规模使用。
  <!-- more -->
 
 ## 虚拟线程引入JDK
 
-在JDK 19的Features中加入了Virtual Threads (Preview)，这意味着一个完全开发完成的Java版的协程已经处于可用阶段了，并且在不久的将来Java虚拟线程会去掉预览，成为Java语言的正式功能。
+在JDK 19的Features中加入了Virtual Threads (Preview)，这意味着一个完全开发完成的Java版的协程已经处于可用阶段了，并且在不久的将来Java虚拟线程会去掉预览，成为Java语言的正式功能。JDK 21 的 Features 已经正式包含了 [JEP 444: Virtual Threads](https://openjdk.org/jeps/444) ，这意味着在下一个LTS版本（JDK 23）虚拟线程将正式投入大规模使用。
 
 ## JDK引入协程的动力
 
@@ -51,7 +51,7 @@ references:
 
 线程（Thread）是操作系统中一个重要概念，是独立调度和分派的基本单位。线程的执行由线程的调度方决定，而调度可以在内核级或者用户级执行，多任务调度也可以是抢占式或协作式。我们先来简单介绍一些术语。
 
-{% folding yellow::术语%}
+{% folding yellow open::术语%}
 
 {% note radiation green::**进程**: 进程是操作系统中执行中的程序实体，是系统进行资源分配的基本单位，一个进程由一个或者多个线程组成。进程由操作系统内核直接创建调度。进程中的线程是基本的调度和执行单位，根据方式不同，分为内核线程或用户线程。 %}
 
@@ -63,21 +63,21 @@ references:
 
 #### 线程模型-内核级线程
 
-{% folding orange::内核线程:用户线程 = 1:1%}
+{% folding orange open::内核线程:用户线程 = 1:1%}
 内核线程与用户线程以1:1的比例创建，这种方式实现简单，而且由内核来完成线程的切换和调度。当前Java就是内核级线程的实现。
 {% image /img/post/2022-12/内核线程.jpg::alt=图源自《深入理解JVM（第三版）》 %}
 {% endfolding %}
 
 #### 线程模型-用户级线程
 
-{% folding ::内核线程:用户线程 = 1:N%}
+{% folding open::内核线程:用户线程 = 1:N%}
 用户级线程实现是指由一个内核线程实现多个用户线程，这种方式上下文切换非常高效，但是实现难度太高，Java远古时代（1.2以前）就是利用这种方式实现的线程（[Green Threads](https://en.wikipedia.org/wiki/Green_thread)），但是当绿色线程执行阻塞系统调用时，不仅该线程被阻塞，而且进程中的所有线程都被阻塞，所以绿色线程必须使用异步 I/O 操作。
 {% image /img/post/2022-12/用户线程.jpg::alt=图源自《深入理解JVM（第三版）》 %}
 {% endfolding %}
 
 #### 线程模型-混合线程
 
-{% folding ::内核线程:用户线程 = M:N%}
+{% folding open::内核线程:用户线程 = M:N%}
 {% image /img/post/2022-12/混合实现.jpg::alt=图源自《深入理解JVM（第三版）》 %}
 {% endfolding %}
 
@@ -213,7 +213,7 @@ main() {
 在经历Fiber和lightweight Thread后Loom最终把JDK命名为Virtual Thread，并且将虚拟线程融入了Java生态环境。现在Java中Thread有两个含义（实现）：一种叫做平台线程（Platform Thread）指内核级线程、而另一种叫做虚拟线程指用户级线程。
 
 {% noteblock::为了使JDK兼容虚拟线程，Loom做的努力 %}
-{% folding cyan::java.lang.Thread %}
+{% folding cyan open::java.lang.Thread %}
 新的API:
 
 * `Thread.ofVirtual()`为创建虚拟线程的方式
@@ -234,7 +234,7 @@ main() {
 
 {% endfolding %}
 
-{% folding cyan::Thread-local variables %}
+{% folding cyan open::Thread-local variables %}
 
 * 虚拟线程可以使用`ThreadLocal`和`InheritableThreadLocal`
 * 但是虚拟线程非常多，需要仔细考虑是否有必要使用
@@ -243,7 +243,7 @@ main() {
 
 {% endfolding %}
 
-{% folding cyan::java.util.concurrent %}
+{% folding cyan open::java.util.concurrent %}
 
 * `java.util.concurrent.LockSupport`对虚拟线程支持
 * `Executors.newThreadPerTaskExecutor(ThreadFactory)` 和 `Executors.newVirtualThreadPerTaskExecutor()`可以为每一个任务创建一个新（虚拟）线程
@@ -251,13 +251,13 @@ main() {
 
 {% endfolding %}
 
-{% folding cyan::Networking %}
+{% folding cyan open::Networking %}
 
 * `java.net.Socket`, `ServerSocket`, `DatagramSocket`可以在虚拟线程中使用，并且其在虚拟线程中使用时可以中断，其中断后将关闭套接字并取消挂起线程
 
 {% endfolding %}
 
-{% folding cyan::java.io %}
+{% folding cyan open::java.io %}
 
 * `BufferedInputStream`、`BufferedOutputStream`、`BufferedReader`、`BufferedWriter`、`PrintStream` 和 `PrintWriter` 现在在直接使用时使用显式锁而不是监视器锁。
 * `InputStreamReader` 和 `OutputStreamWriter` 使用的流解码器和编码器现在使用与封闭的 `InputStreamReader` 或 `OutputStreamWriter` 相同的锁。
@@ -265,32 +265,32 @@ main() {
 
 {% endfolding %}
 
-{% folding cyan::Java Native Interface (JNI) %}
+{% folding cyan open::Java Native Interface (JNI) %}
 
 * JNI 定义了一个新函数 `isVirtualThread`，用于测试对象是否为虚拟线程。
 
 {% endfolding %}
-{% folding cyan::Debugging (JVM TI, JDWP, and JDI) %}
+{% folding cyan open::Debugging (JVM TI, JDWP, and JDI) %}
 
 * Java 调试有线协议 (JDWP) 和 Java 调试接口 (JDI)。所有三个接口现在都支持虚拟线程。
 
 {% endfolding %}
 
-{% folding cyan::JDK Flight Recorder (JFR) %}
+{% folding cyan open::JDK Flight Recorder (JFR) %}
 JFR 通过几个新事件支持虚拟线程：
 * `jdk.VirtualThreadStart` 和 `jdk.VirtualThreadEnd` 表示虚拟线程的开始和结束。默认情况下禁用这些事件。
 * `jdk.VirtualThreadPinned` 指示虚拟线程在固定时停放，即没有释放其平台线程（参见[讨论](https://openjdk.org/jeps/425#Pinning)）。默认情况下启用此事件，阈值为20ms。
 * `jdk.VirtualThreadSubmitFailed` 表示启动或取消虚拟线程失败，可能是由于资源问题。默认情况下启用此事件。
 {% endfolding %}
 
-{% folding cyan::Java Management Extensions (JMX) %}
+{% folding cyan open::Java Management Extensions (JMX) %}
 
 * `java.lang.management.ThreadMXBean` 只支持平台线程的监控和管理。 `findDeadlockedThreads()` 方法查找处于死锁状态的平台线程的循环；它没有找到处于死锁状态的虚拟线程循环。
 * `com.sun.management.HotSpotDiagnosticsMXBean` 中的新方法生成上述新型线程转储。也可以通过平台 `MBeanServer` 从本地或远程 `JMX` 工具间接调用此方法。
 
 {% endfolding %}
 
-{% folding cyan::java.lang.ThreadGroup %}
+{% folding cyan open::java.lang.ThreadGroup %}
 
 {% link java.lang.ThreadGroup::https://openjdk.org/jeps/425#java-lang-ThreadGroup::https://openjdk.org/images/openjdk.png %}
 
@@ -375,6 +375,24 @@ public class Main {
 ## 时间线
 
 {% timeline %}
+
+{% timenode 2023-05-19 [JDK 21](https://openjdk.org/projects/jdk/21/) %}
+
+JDK 21 的 Features 已经正式包含了 [JEP 444: Virtual Threads](https://openjdk.org/jeps/444) ，这意味着在下一个LTS版本（JDK 23）虚拟线程将正式投入大规模使用
+
+{% endtimenode %}
+
+{% timenode 2023-04-11 [JEP 444: Virtual Threads](https://openjdk.org/jeps/444) %}
+
+Java虚拟线程的正式发布
+
+{% endtimenode %}
+
+{% timenode 2023-03-21 [JDK 20](https://openjdk.org/projects/jdk/20/) %}
+
+JDK 20 的 Features 已经包含了 [JEP 436: Virtual Threads (Second Preview)](https://openjdk.org/jeps/436)
+
+{% endtimenode %}
 
 {% timenode 2022-10-23 [JEP 436: Virtual Threads (Second Preview)](https://openjdk.org/jeps/436) %}
 
