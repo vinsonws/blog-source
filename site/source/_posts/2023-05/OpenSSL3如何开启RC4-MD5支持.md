@@ -37,10 +37,10 @@ references:
 
 ## 系统环境
 
-操作系统：Ubuntu 22.04.1 LTS
-OpenSSL：OpenSSL 3.0.2 15 Mar 2022 (Library: OpenSSL 3.0.2 15 Mar 2022)
+{% radio cyan checked::操作系统：Ubuntu 22.04.1 LTS %}
+{% radio cyan checked::OpenSSL：OpenSSL 3.0.2 15 Mar 2022 (Library: OpenSSL 3.0.2 15 Mar 2022) %}
 
-{% note warning::note warning Ubuntu 22.04 的 OpenSSL 版本默认为 3.x，所以的Ubuntu 22.04 + 应该都存在这个问题 %}
+{% note warning::Ubuntu 22.04 的 OpenSSL 版本默认为 3.x，所以的Ubuntu 22.04 + 应该都存在这个问题 %}
 
 ## 问题解决
 
