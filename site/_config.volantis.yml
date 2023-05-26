@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 在废墟中寻找美
-  subtitle: 西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)
+  title: 伸向天空
+  subtitle: 纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
