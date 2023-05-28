@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 俯瞰层叠的梯田
-  subtitle: 乌布的德格拉朗梯田，印度尼西亚 (© Cavan Images/Adobe Stock)
+  title: 人间天堂
+  subtitle: 萨克马兰大湾，瓜德罗普岛国家公园，小安的列斯群岛 (© Hemis/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.TegallalangTerrace_ZH-CN8126456968_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.Antilles_ZH-CN8267285876_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
