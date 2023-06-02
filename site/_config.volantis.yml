@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 被沙海包围
-  subtitle: 沙丘中的南非剑羚，纳米比亚 (© Sergey Gorshkov/Alamy)
+  title: 一睹最壮观的峡谷
+  subtitle: 大峡谷国家公园的南凯巴布步道，亚利桑那州，美国 (© Roman Khomlyak/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.GemsbokNamibia_ZH-CN0963988839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SouthKaibabTrail_ZH-CN1186135534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
