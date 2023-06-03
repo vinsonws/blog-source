@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 一睹最壮观的峡谷
-  subtitle: 大峡谷国家公园的南凯巴布步道，亚利桑那州，美国 (© Roman Khomlyak/Getty Images)
+  title: 热带天堂的黑沙滩
+  subtitle: 怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国 (© Matt Anderson Photography/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SouthKaibabTrail_ZH-CN1186135534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
