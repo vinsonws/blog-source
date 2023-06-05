@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 风景如画的瀑布
-  subtitle: 辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)
+  title: 诺曼底登陆日
+  subtitle: The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
