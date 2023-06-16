@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 鹰嘴海龟
-  subtitle: 游泳的鹰嘴海龟， 冲绳，日本 (© Robert Mallon/Getty Images)
+  title: 桨叶动力
+  subtitle: 在加利福尼亚州圣地亚哥举行的“为团结划桨”活动 (© Brandon Colbert Photography/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SurfSanDiego_ZH-CN1485510748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
