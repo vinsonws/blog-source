@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 一座宝库
-  subtitle: 佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)
+  title: 奢华的迷宫
+  subtitle: 维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
