@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 接吻的企鹅
-  subtitle: 南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)
+  title: 巧克力爱好者最爱的水果
+  subtitle: 安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
