@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 这片湖泊可不是海市蜃楼
-  subtitle: 敦煌月牙泉，甘肃省，中国 (© R7 Photo/Shutterstock)
+  title: 为我们的近邻月球而庆祝
+  subtitle: 从美国宇航局猎户座飞船上看到的月球 (© NASA)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.CrescentLake_ZH-CN8294493832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
