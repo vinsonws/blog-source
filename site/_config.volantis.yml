@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 为我们的近邻月球而庆祝
-  subtitle: 从美国宇航局猎户座飞船上看到的月球 (© NASA)
+  title: 将散落的岛屿连接在一起
+  subtitle: 斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
