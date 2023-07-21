@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 将散落的岛屿连接在一起
-  subtitle: 斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)
+  title: 想出去玩吗？
+  subtitle: 在一棵秃柏树上吊床露营，佛罗里达州，美国 (© Mac Stone/Tandem Stills + Motion)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.HammockDay_ZH-CN9368760971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
