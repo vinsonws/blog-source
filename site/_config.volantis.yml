@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 美丽的蓝色岛屿
-  subtitle: 圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)
+  title: 国际老虎日
+  subtitle: 孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
