@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 国际老虎日
-  subtitle: 孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)
+  title: 宛若仙境的帕卢斯田园
+  subtitle: 帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
