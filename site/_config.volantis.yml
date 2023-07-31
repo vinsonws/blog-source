@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 有人在家吗?
-  subtitle: 霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)
+  title: 德纳里山的力量无可否认
+  subtitle: 从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
