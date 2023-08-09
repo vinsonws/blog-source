@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 壮观的自然古迹
-  subtitle: 马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)
+  title: 丛林之王？还真不是
+  subtitle: 马赛马拉的一头狮子，肯尼亚 (© Federico Veronesi/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
