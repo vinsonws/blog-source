@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 壁花的避风港
-  subtitle: 哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)
+  title: 桥下和桥上的水流
+  subtitle: 罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
