@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 表彰和平卫士
-  subtitle: 诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)
+  title: 马尔萨拉，西西里岛的奇迹之一
+  subtitle: 马尔萨拉盐田，意大利 (© javarman3/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
