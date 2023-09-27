@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 缓慢平稳地攀登悬崖
-  subtitle: 克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)
+  title: 遵命！船长！
+  subtitle: 泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
