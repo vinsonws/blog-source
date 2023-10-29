@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 天黑后，你还敢待在这里吗？
-  subtitle: 博纳温彻墓地，萨凡纳，佐治亚州，美国 (© Kelly vanDellen/Alamy)
+  title: 黑衣美人
+  subtitle: 普通乌鸦坐在树枝上 (© WildMedia/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SavannahSculpture_ZH-CN7663694208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.AutumnRaven_ZH-CN7897841947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
