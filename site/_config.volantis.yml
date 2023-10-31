@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 恶灵们只想玩个开心。
-  subtitle: 万圣节南瓜灯 (© Bing Image Creator)
+  title: 你知道“阿尔萨斯之眼”吗？
+  subtitle: 上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
