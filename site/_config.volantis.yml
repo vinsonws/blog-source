@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 想象一下此处的回声
-  subtitle: 萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)
+  title: 西方哲学的发源地
+  subtitle: 雅典和卫城，希腊 (© Mlenny/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SarekSweden_ZH-CN9728518595_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.AthensAcropolis_ZH-CN9942357439_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
