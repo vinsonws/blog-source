@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 欢迎来到这个世界！
-  subtitle: 英国诺福克海滩上的灰海豹幼崽 (© Vince Burton/Minden Pictures)
+  title: 人少景美的静谧之地
+  subtitle: 大提顿国家公园，怀俄明州，美国 (© Westend61/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HelloSeal_ZH-CN1064568368_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SnakeRiverTeton_ZH-CN1213535303_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
