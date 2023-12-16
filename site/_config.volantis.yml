@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 令人愉悦的忧郁蓝
-  subtitle: 大广场，布鲁塞尔，比利时 (© Richard Taylor/Sime/eStock Photo)
+  title: 有羽毛的时尚达人
+  subtitle: 波西米亚太平鸟栖息在树枝上，加拿大 (© Jim Cumming/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.WinterWaxwings_ZH-CN9274297835_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
