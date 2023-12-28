@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 跳出“濒危名单”
-  subtitle: 座头鲸，迪斯科湾，格陵兰 (© Paul Souders/DanitaDelimont.com)
+  title: 旧西街区的故事
+  subtitle: 旧西街区，阿姆斯特丹 ，荷兰 (© George Pachantouris/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
