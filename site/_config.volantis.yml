@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 旧西街区的故事
-  subtitle: 旧西街区，阿姆斯特丹 ，荷兰 (© George Pachantouris/Getty Images)
+  title: 古石圈
+  subtitle: 卡塞里格石圈，湖区国家公园 ，坎布里亚，英国 (© John Finney Photography/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
