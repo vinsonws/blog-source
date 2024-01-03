@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 星光璀璨
-  subtitle: 明尼汪卡湖，阿尔伯塔省，加拿大 (© Ken Phung/500px/Getty Images)
+  title: 雾锁金门
+  subtitle: 金门大桥，旧金山，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.MinnewankaLake_ZH-CN3020982568_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.GoldenGateLight_ZH-CN3874822904_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
