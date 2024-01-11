@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 长胡须的“流浪汉”
-  subtitle: 雪中的欧亚猞猁 (© Jan Stria/Shutterstock)
+  title: 北汉山的花岗岩山峰
+  subtitle: 北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.LynxSnow_ZH-CN8908082275_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
