@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 天气暖和了再叫醒我
-  subtitle: 巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images)
+  title: 在飞马珀伽索斯的守望之下
+  subtitle: 黄昏时分的亚历山大三世桥，巴黎，法国 (© Sizun Eye/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ParisBridge_ZH-CN0173421630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
