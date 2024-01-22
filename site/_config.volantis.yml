@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 魔幻时刻
-  subtitle: 冬季日出，沃尔顿灯塔，圣克鲁斯, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)
+  title: 印度洋之眼
+  subtitle: 印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SantaCruzSunrise_ZH-CN3074203377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
