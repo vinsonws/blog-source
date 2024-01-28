@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 从干涸的沙漠变成田园
-  subtitle: 昆士兰州内陆海峡地区，澳大利亚 (© Southern Lightscapes-Australia/Getty Images)
+  title: 缓缓下降
+  subtitle: 戈林格瀑布，泰嫩高，萨尔茨堡，奥地利 (© Frank Fischbach/Alamy Stock Photo)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ChannelOutback_ZH-CN0579687777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.GollingerFalls_ZH-CN1137680822_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
