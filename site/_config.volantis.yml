@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 发光的雪塔
-  subtitle: 吕根岛的萨斯尼茨灯塔，德国 (© Christian Back/eStock)
+  title: 菲尔会看到它的影子吗?
+  subtitle: 从洞穴中探出头的土拨鼠 (© Scacciamosche/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
