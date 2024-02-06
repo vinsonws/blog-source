@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 天然盆景
-  subtitle: 盆景岩，太浩湖，内华达州，美国 (© Jim Patterson/Tandem Stills + Motion)
+  title: 海浪中的避风港
+  subtitle: 圣詹姆斯潮汐池，开普敦，南非 (© AmazingAerialAgency/Adobe)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.LakeTahoeRock_ZH-CN5770740919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
