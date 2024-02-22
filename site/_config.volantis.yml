@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 名副其实的“调色板盒子”
-  subtitle: 布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚 (© Prasit photo/Getty Images)
+  title: 老鹰起舞的地方
+  subtitle: Haghartsin修道院，迪利扬国家公园，亚美尼亚 (© Alexey Kharitonov/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
