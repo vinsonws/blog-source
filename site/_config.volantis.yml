@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 蝶舞翩跹
-  subtitle: 德国草地上的蝴蝶 (© Albert Fertl/Getty Images)
+  title: 西西里岛的风光
+  subtitle: 莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ModicaItaly_ZH-CN3893147952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
