@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 峡谷的守护者
-  subtitle: 布莱斯峡谷国家公园，犹他州，美国 (© Jim Patterson/Tandem Stills + Motion)
+  title: 鸟瞰
+  subtitle: 小红鹳飞越马加迪湖,肯尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BryceSnow_ZH-CN7489999663_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MagadiFlamingos_ZH-CN7888437841_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
