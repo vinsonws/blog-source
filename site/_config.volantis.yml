@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 被竹子包围了
-  subtitle: 正在吃竹子的大熊猫，中国成都 (© Suzi Eszterhas/Minden Pictures)
+  title: 今天，让我们穿绿衣裳吧！
+  subtitle: 圣菲尼安湾，凯里郡，爱尔兰 (© Atlantide Phototravel/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BambooPanda_ZH-CN8455481760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
