@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 纯洁与优雅的象征
-  subtitle: 潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images)
+  title: 岌岌可危的冰川
+  subtitle: 勃朗峰上的冰海，夏慕尼，法国 (© Hagenmuller Jean-François/Hemis/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
