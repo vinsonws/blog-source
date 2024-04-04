@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 沼泽地上的漫游者
-  subtitle: 红驴羚群穿越奥卡万戈三角洲的沼泽平原，博茨瓦纳 (© Ibrahim Suha Derbent/Getty Images)
+  title: 潜入碧海
+  subtitle: 从国际空间站拍摄的巴哈马群岛 (© NASA)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.AntelopeBotswana_ZH-CN8253323519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BahamasSpace_ZH-CN8053657656_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
