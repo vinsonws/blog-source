@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 灯光，相机，纽约！
-  subtitle: 暮色中的曼哈顿下城联合广场，纽约，美国 (© Sean Pavone/Getty Images)
+  title: 我是不是睡得太久了？
+  subtitle: 春天的美洲黑熊幼崽，仙纳度国家公园，弗吉尼亚州，美国 (© Scott Suriano/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.UnionSquareNYC_ZH-CN1533018653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SpringCub_ZH-CN1643833378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
