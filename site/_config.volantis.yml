@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 保存，保护，享受！
-  subtitle: 日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)
+  title: 未选择的路
+  subtitle: Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.YellowstoneGeyser_ZH-CN3441008468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.CadesCove_ZH-CN3950297181_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
