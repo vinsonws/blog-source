@@ -20,8 +20,9 @@ cover:
     home: true
     archive: true
     others: true
-  title: 这片水域里有很多故事！
-  subtitle: 维戈的兰德大桥，西班牙 (© Julio Conde/Getty Images)
+  title: 今天不是无关紧要的一天
+  subtitle: 塔兰吉雷国家公园的非洲象家族，坦桑尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty
+    Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +409,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ReconquistaVigo_ZH-CN4619580424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
