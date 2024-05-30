@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 欢迎来到大沼泽地
-  subtitle: 一片斜纹松和锯齿草大沼泽地国家公园，佛罗里达州，美国 (© Jonathan Gewirtz/Tandem Stills + Motion)
+  title: 绿意盎然的宜人之地
+  subtitle: 冈纳塞德，斯韦尔代尔，约克郡谷地国家公园，英格兰 (© Derek Croucher/Alamy Stock Photo)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.Everglades90th_ZH-CN9853372570_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
