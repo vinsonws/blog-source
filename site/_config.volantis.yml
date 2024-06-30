@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 你不会忘记它的！
-  subtitle: 乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture)
+  title: 为加拿大干杯
+  subtitle: 菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大 (© davemantel/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.UbudBali_ZH-CN4891348277_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
