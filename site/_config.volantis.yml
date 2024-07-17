@@ -20,8 +20,9 @@ cover:
     home: true
     archive: true
     others: true
-  title: 高耸入云的历史建筑
-  subtitle: 德国中世纪城市罗滕堡 (© kanuman/Getty Images)
+  title: 意义深远
+  subtitle: Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden
+    Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +409,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.MedievalRothenburg_ZH-CN1522774136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MayotteCoral_ZH-CN8106288026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
