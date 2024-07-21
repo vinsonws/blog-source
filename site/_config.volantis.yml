@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 香料岛之旅
-  subtitle: 肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy Stock Photo)
+  title: 和我一起避暑吧！
+  subtitle: 树上的中国小熊猫, 成都, 四川省, 中国 (© Jackyenjoyphotography/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ZanzibarBoats_ZH-CN2915388379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.TheGreatHeat2024_ZH-CN6033129823_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
