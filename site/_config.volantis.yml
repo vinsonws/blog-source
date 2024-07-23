@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 历史的回响
-  subtitle: 迈索尼城堡，麦西尼亚州，希腊 (© Andrew Mayovskyy/Shutterstock)
+  title: 可爱的羊咩咩一家
+  subtitle: 北约克郡的黑面羊羊群，英格兰 (© R A Kearton/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.MethoniCastle_ZH-CN4054146065_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SheepCousins_ZH-CN4262132476_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
