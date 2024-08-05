@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 一片紫色的海洋
-  subtitle: 薰衣草田，赫特福德郡 ，英格兰，英国 (© George W Johnson/Getty Images)
+  title: 迎合所有人口味的景点
+  subtitle: 莫洛基尼，毛伊岛，夏威夷，美国 (© Douglas Peebles/eStock Photo)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HertfordshireLavender_ZH-CN9771886404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MolokiniHawaii_ZH-CN0375050872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
