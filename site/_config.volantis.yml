@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 人迹罕至的路
-  subtitle: 通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省 (© EB Adventure Photography/Shutterstock)
+  title: 你的声音嘹亮而清晰
+  subtitle: 非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
