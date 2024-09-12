@@ -20,8 +20,9 @@ cover:
     home: true
     archive: true
     others: true
-  title: 度过美好的一天
-  subtitle: 留尼汪岛附近的海豚群，印度洋，法国海外省 (© Joost van Uffelen/Shutterstock)
+  title: 自然与人类的天堂
+  subtitle: 雷耶斯角国家海岸灯塔，加利福尼亚州，美国 (© RMB Images/Photography by Robert Bowman/Getty
+    Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +409,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.DolphinReunion_ZH-CN7681290861_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.PointReyes_ZH-CN7781514086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
