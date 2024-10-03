@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 盛大的爱情见证
-  subtitle: 阿格拉的泰姬陵，安拉阿巴德，印度 (© Tanarch/Getty Images)
+  title: 一轮蓝月亮
+  subtitle: 木星的冰卫星木卫二 (© NASA/JPL-Caltech/SETI Institute)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.TajMahalReflection_ZH-CN7498774173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.EuropaMoon_ZH-CN0149249980_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
