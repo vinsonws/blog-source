@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 坚持住
-  subtitle: 哥斯达黎加的三趾树懒 (© Harry Collins/Getty Images)
+  title: 在秋天里傲然挺立
+  subtitle: 乔治·史密斯州立公园的柏树，佐治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
