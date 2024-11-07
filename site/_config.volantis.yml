@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 初冬之美
-  subtitle: 金色的松树，坝上草原，中国 (© MelindaChan/Getty Images)
+  title: 来自冰与火之国
+  subtitle: 冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
