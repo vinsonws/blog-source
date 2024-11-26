@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 有数百年历史的橄榄树
-  subtitle: 橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)
+  title: 巨人的安息之地
+  subtitle: 秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
