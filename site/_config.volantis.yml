@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 闪烁的小镇
-  subtitle: 锡比乌圣诞市场，罗马尼亚 (© Calin Stan/Alamy Stock Photo)
+  title: 圣诞老人要来镇上了
+  subtitle: 罗瓦涅米圣诞老人村，拉普兰，芬兰 (© Smelov/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SibiuRomania_ZH-CN1631942857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SantaClausVillage_ZH-CN1839275027_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
