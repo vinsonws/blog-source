@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 准备好发泄一些压力了吗？
-  subtitle: 钏路的两只丹顶鹤，北海道，日本 (© Wirestock, Inc./Alamy Stock Photo)
+  title: 祝你圣诞快乐！
+  subtitle: 德国圣诞市场 (© Cyril Gosselin/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.FestivusCranes_ZH-CN2464862059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
