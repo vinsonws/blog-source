@@ -42,8 +42,8 @@ jobs:
       shell: python
     - name: Commit files
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "vinsonws@qq.com"
+        git config --local user.name "vinsonws"
         git pull origin main
         git commit -m "daily image update" site/_config.volantis.yml || echo "Nothing to update"
     - name: GitHub Push
