@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 冰层中气泡奇观
-  subtitle: 亚伯拉罕湖，阿尔伯塔省，加拿大 (© Basic Elements Photography/Getty Images)
+  title: 旧时代的古老拱门
+  subtitle: 梅克内斯的Heri es-Swani，摩洛哥 (© Calin Stan/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
