@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 波尔图的黄金时刻
-  subtitle: 波尔图，葡萄牙 (© Starcevic/Getty Images)
+  title: 优雅地老去
+  subtitle: 比利时的欧洲山毛榉森林 (© Philippe Moes/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
