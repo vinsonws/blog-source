@@ -55,7 +55,7 @@ jobs:
       - name: Copy robots.txt
         run: cp ./site/robots.txt ./site/public/
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./site/public
       - name: Upload artifact
@@ -78,7 +78,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
 
   aos-deploy:
     needs: build
