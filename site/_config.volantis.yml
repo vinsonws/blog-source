@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 历史的守望之眼
-  subtitle: 云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)
+  title: 喜气洋洋的元宵节
+  subtitle: 上海豫园的灯会，元宵节，上海市，中国 (© atiger/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
