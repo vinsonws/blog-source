@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 冰雪奇景
-  subtitle: 三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock)
+  title: 守护海洋巨兽
+  subtitle: 座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
