@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 丛林探险
-  subtitle: 俯瞰拷索山林国家公园，素叻府，泰国 (© Peetatham Kongkapech/Getty Images)
+  title: 岩石间的生存之道
+  subtitle: 沙漠大角羊，内华达州火焰谷州立公园，美国 (© Rachid Dahnoun/Cavan Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
