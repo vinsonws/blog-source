@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 向戏剧致敬
-  subtitle: 希罗德·阿提库斯剧场，雅典卫城，希腊 (© f11photo/Getty Images)
+  title: 温暖舒适的摇篮
+  subtitle: 正在筑巢的雌性黑枕王鹟 (© komkrit tonusin/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.OdeonAthens_ZH-CN6085881625_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.NestingMonarch_ZH-CN7848166951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
