@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 伦敦最尖锐的地标
-  subtitle: 碎片大厦，伦敦 (© Dennis Fischer Photography/Moment/Getty Images)
+  title: 你好，海狸！
+  subtitle: 美洲海狸, Moran, 怀俄明州, 美国 (© Enrique Aguirre Aves/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
