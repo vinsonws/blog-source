@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 野性本能
-  subtitle: 靠近巢穴的红狐幼崽 (© WildMedia/Shutterstock)
+  title: 盛放的美好时光
+  subtitle: 郁金香，荷兰 (© 1111IESPDJ/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
