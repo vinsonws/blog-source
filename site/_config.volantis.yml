@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 这只黑斑羚正在何处漫游？
-  subtitle: 莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)
+  title: 几何之美绽放于此
+  subtitle: 维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
