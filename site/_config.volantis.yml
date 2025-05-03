@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 让我们一起庆祝宇宙
-  subtitle: 拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)
+  title: 欢迎来到纳布星球！
+  subtitle: 西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
