@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 岩石上的城堡
-  subtitle: 邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)
+  title: 值得大声欢呼的一天
+  subtitle: Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
