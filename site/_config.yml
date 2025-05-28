@@ -120,3 +120,6 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+
+google_analytics_key: G-MPLFXTE5LX
