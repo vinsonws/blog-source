@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 卡拉卢纳海滩, 撒丁岛, 意大利
-  subtitle: 卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)
+  title: 隐藏的美景
+  subtitle: 福玛萨瀑布，迪亚曼蒂纳，巴西 (© Pulsar Images/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -408,7 +408,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.FumacinhaBahia_ZH-CN9190616593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
