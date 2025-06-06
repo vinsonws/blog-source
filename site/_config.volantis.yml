@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 诺曼底登陆日的转折点
-  subtitle: 诺曼底的阿罗芒什莱班 , 法国 (© Horia Merla/Getty Images)
+  title: 走上高远之路
+  subtitle: 松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国 (© Matthew Kuhns/TANDEM Stills + Motion)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -157,7 +157,8 @@ article:
         title: 推荐阅读
         icon: fa-solid fa-bookmark
         max_count: 6
-        placeholder_img: https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
+        placeholder_img: 
+          https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
         # 不展示文章推荐
         # front-matter 使用 skip_recommended_article: true 关闭
         # 不在以下文件夹文章中展示文章推荐 根目录是source/
@@ -172,7 +173,8 @@ article:
         icon: fa-solid fa-bookmark
         max_count: 5
         # 设为空则不使用文章头图
-        placeholder_img: https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
+        placeholder_img: 
+          https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
       # ----------------
       # 版权声明组件 (for layout: post)
       copyright:
@@ -197,7 +199,8 @@ article:
           #############################
           rules:
             type1:
-              text: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh#"
+              text: <a 
+                href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh#"
                 target="_blank">CC BY-NC-SA 4.0</a>
               desc: 署名-非商业性使用-相同方式共享 4.0 国际。
             type2:
@@ -228,7 +231,8 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
+        avatar: 
+          volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png       # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
         name: 请设置文章作者
         url: /
       # 文章创建日期
@@ -408,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.NormandyBeach_ZH-CN9312381737_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
