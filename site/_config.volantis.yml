@@ -20,9 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 伊西斯女神的光辉照耀下
-  subtitle: 菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及 (© Ratnakorn Piyasirisorost/Getty
-    Images)
+  title: 追随香气的地平线
+  subtitle: 瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -413,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
