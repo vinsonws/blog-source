@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 追随香气的地平线
-  subtitle: 瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)
+  title: 一切准备就绪，等待日落
+  subtitle: 塞里雅兰瀑布日落美景，冰岛 (© Tom Mackie/AWL/plainpicture)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
