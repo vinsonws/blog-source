@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 城中之国
-  subtitle: 梵蒂冈城与圣彼得大教堂，罗马，意大利 (© RudyBalasko/Getty Images)
+  title: 物以类聚，鸟以群分
+  subtitle: 栖息在树枝上的灰燕鵙家族 (© Captain Skyhigh/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
