@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 致敬原住民之声
-  subtitle: 陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)
+  title: 为正义怒吼
+  subtitle: 马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
