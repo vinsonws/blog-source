@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 忠勇的雕刻石
-  subtitle: 奇陶尔加尔堡, 拉贾斯坦邦, 印度 (© chetansoni/Shutterstock)
+  title: 速度与毛茸茸
+  subtitle: 最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
