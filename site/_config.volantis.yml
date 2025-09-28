@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 品味皮恩扎
-  subtitle: 托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)
+  title: 彩虹骑行与宁静氛围
+  subtitle: 豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
