@@ -20,8 +20,9 @@ cover:
     home: true
     archive: true
     others: true
-  title: 彩虹骑行与宁静氛围
-  subtitle: 豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)
+  title: 坚持重要的事情
+  subtitle: 桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty 
+    Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +413,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
