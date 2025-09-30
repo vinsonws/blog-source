@@ -20,9 +20,9 @@ cover:
     home: true
     archive: true
     others: true
-  title: 坚持重要的事情
-  subtitle: 桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty 
-    Images)
+  title: 克拉克山脉的回声
+  subtitle: 克拉克山脉, 内华达山脉, 约塞米蒂国家公园, 加利福尼亚州, 美国 (© Robb Hirsch/TANDEM Stills + 
+    Motion)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -413,7 +413,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
