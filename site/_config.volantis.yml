@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 蓝与白的梦境
-  subtitle: 伊亚镇，圣托里尼岛，希腊 (© f9photos/Getty Images)
+  title: 孢子奇遇记
+  subtitle: 紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
