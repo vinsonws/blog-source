@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 鸟喙的故事
-  subtitle: 哥斯达黎加的厚嘴巨嘴鸟 (© Juan Carlos Vindas/Getty Images)
+  title: 刻在石头上
+  subtitle: 贝洛格拉齐克石林，保加利亚 (© EvaL Miko/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
