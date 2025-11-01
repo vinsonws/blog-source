@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 古老血脉的兽群
-  subtitle: 野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)
+  title: 竹林吐纳清气，枫叶绚烂如火
+  subtitle: 岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
