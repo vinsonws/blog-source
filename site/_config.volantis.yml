@@ -20,8 +20,9 @@ cover:
     home: true
     archive: true
     others: true
-  title: 小心空隙，桥面将开启！
-  subtitle: 塔桥, 伦敦, 英格兰 (© Nick Brundle Photography/Getty Images)
+  title: 秋天来了，你开心吗？
+  subtitle: 佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL 
+    by plainpicture)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +413,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
