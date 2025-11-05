@@ -20,9 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 秋天来了，你开心吗？
-  subtitle: 佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL 
-    by plainpicture)
+  title: 满天心愿
+  subtitle: 哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -413,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
