@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 传奇之地
-  subtitle: 条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)
+  title: 条条大路通罗马
+  subtitle: 斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
