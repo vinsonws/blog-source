@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 条条大路通罗马
-  subtitle: 斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)
+  title: 星光下的颤动之树
+  subtitle: 夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
