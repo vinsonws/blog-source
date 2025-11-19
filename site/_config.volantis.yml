@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 石头与符号，诉说一个民族的故事
-  subtitle: 匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)
+  title: 颂扬保护与美
+  subtitle: 查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
