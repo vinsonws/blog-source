@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 历史与现代的交融
-  subtitle: 法兰克福老桥，德国 (© diegograndi/Getty Images)
+  title: 当节日的魔法踩着蹄声而来
+  subtitle: 冬雪中的驯鹿，拉普兰德，芬兰 (© Roberto Moiola/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
