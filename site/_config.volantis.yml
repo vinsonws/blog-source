@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 微缩世界，无尽奇想
-  subtitle: 海德堡圣诞市场上的雪球，德国 (© George Pachantouris/Getty Images)
+  title: 打破盒子的传统
+  subtitle: 索尔兹伯里大教堂，威尔特郡，英格兰 (© Julian Elliott Photography/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
