@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 冬之碎片
-  subtitle: 苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国 (© wanderluster/Getty Images)
+  title: 仍存野性
+  subtitle: 马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
