@@ -20,9 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 王者视野
-  subtitle: 国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light 
-    Photography/TANDEM Stills + Motion)
+  title: 高角羚群紧急戒备
+  subtitle: 一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -413,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
