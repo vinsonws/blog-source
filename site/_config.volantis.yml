@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 从抗拒到绽放
-  subtitle: 舍夫沙万的蓝色墙壁, 摩洛哥 (© AnetteAndersen/Getty Images)
+  title: 水獭之国爱沙尼亚
+  subtitle: 欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
