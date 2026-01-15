@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 小村庄，大视野
-  subtitle: 雷讷渔村, 挪威 (© Roberto Moiola/Cavan Images/SuperStock)
+  title: 眼神对上了
+  subtitle: 埃托沙国家公园的豹子，纳米比亚 (© Norbert Achtelik/Cavan Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.ReineSunrise_ZH-CN6297586399_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
