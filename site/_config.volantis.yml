@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 普雷比希托广场上的穹顶
-  subtitle: 保罗圣方济圣殿，那不勒斯，意大利 (© javarman3/Getty Images)
+  title: 伪装成沙漠的奇境
+  subtitle: 白沙国家公园，新墨西哥州，美国 (© Francesco Carucci/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
