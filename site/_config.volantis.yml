@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 随河而行
-  subtitle: 旺格努伊国家公园，雷塔鲁克，新西兰 (© Matthew Micah Wright/Getty Images)
+  title: 密尔沃基的传奇故事
+  subtitle: 密尔沃基市政厅的八层开放式中庭，威斯康星州，美国 (© lavin photography/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
