@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 一见钟情
-  subtitle: 平原斑马, 埃托沙国家公园, 纳米比亚 (© Mogens Trolle/Shutterstock)
+  title: 奇迹之墙
+  subtitle: 奥林达的彩色房子, 巴西 (© Robert Pekar/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.EtoshaZebra_ZH-CN6068087794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
