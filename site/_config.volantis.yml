@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 古老岩石，现代灯光
-  subtitle: 格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)
+  title: 混凝土中铸造的波浪
+  subtitle: 波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
