@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 节约日光的艺术
-  subtitle: 乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)
+  title: 一次恰到好处的午睡
+  subtitle: 在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
