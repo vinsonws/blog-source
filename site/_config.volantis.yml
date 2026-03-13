@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 静谧的石之杰作
-  subtitle: 邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)
+  title: 圆周率的古老启示
+  subtitle: 兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
