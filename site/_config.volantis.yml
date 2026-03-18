@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 城市花开
-  subtitle: 汤姆·麦考尔滨水公园的樱花，波特兰，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)
+  title: 激发你的好奇心
+  subtitle: 澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
