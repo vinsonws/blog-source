@@ -20,9 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 根系自由生长的地方
-  subtitle: 莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture
-    Library)
+  title: 当水划出界线
+  subtitle: 坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -413,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
