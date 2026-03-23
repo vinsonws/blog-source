@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 当水划出界线
-  subtitle: 坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)
+  title: 春天的形状
+  subtitle: 东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
