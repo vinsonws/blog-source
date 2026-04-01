@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 跃入四月
-  subtitle: 粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)
+  title: 春天的图案
+  subtitle: 野花绽放, 中央谷地, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
