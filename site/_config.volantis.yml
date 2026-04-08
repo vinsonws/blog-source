@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 翡翠之城
-  subtitle: 西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)
+  title: 光之水帘
+  subtitle: 雪落瀑布，布雷肯比肯斯国家公园，威尔士 (© Guy Edwardes/Nature Picture Library)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
