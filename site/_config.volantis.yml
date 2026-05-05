@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 藕花风起，首夏清和
-  subtitle: 莲花与莲花植株 (© real444/Getty Images)
+  title: 承受压力之下的平原
+  subtitle: 平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
