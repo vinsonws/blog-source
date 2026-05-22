@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 海洋生命的律动
-  subtitle: 埃希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame_dpr/Alamy)
+  title: 为龟类喝彩！
+  subtitle: 与蝴蝶在一起的乌龟 (© Patrick Gallet/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
