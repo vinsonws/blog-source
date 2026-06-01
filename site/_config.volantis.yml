@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 历史的况味
-  subtitle: 巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images)
+  title: 穿行于蓝色之间
+  subtitle: 穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
