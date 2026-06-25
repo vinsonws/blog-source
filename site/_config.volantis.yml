@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 在广场中感受历史
-  subtitle: 布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)
+  title: 时事
+  subtitle: 泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
