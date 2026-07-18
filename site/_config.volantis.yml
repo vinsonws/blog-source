@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 环影圆成
-  subtitle: 恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)
+  title: 敛羽栖时
+  subtitle: 不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
