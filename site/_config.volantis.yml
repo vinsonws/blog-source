@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 旷野无声，活态传承之境
-  subtitle: 在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国 (© Westend61/Adobe Stock)
+  title: 穿越时光的足迹
+  subtitle: 鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
