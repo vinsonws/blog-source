@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 天鹅开启传奇之处
-  subtitle: 戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)
+  title: 珊瑚礁上的黄金地段
+  subtitle: 海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
