@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 一部守护荒野的法案
-  subtitle: 郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)
+  title: 地平线上的红与白
+  subtitle: 韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国 (© bluejayphoto/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
