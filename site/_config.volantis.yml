@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 慕尼黑啤酒节的阿尔卑斯之声
-  subtitle: 阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)
+  title: 终获巴黎青睐的铁塔
+  subtitle: 日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
