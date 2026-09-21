@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 皮毛与海洋之间的生命
-  subtitle: 正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)
+  title: 金色时节
+  subtitle: 瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
