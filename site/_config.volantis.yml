@@ -20,8 +20,9 @@ cover:
     home: true
     archive: true
     others: true
-  title: 一张令人过目难忘的脸
-  subtitle: 雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)
+  title: 在花岗岩中读懂时间
+  subtitle: 奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + 
+    Motion)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +413,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
