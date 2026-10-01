@@ -20,9 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 在花岗岩中读懂时间
-  subtitle: 奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + 
-    Motion)
+  title: 一条值得保护的河流
+  subtitle: 查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -413,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
