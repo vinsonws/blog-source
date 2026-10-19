@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 水上通衢
-  subtitle: 大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)
+  title: 慢节奏生活
+  subtitle: 褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
