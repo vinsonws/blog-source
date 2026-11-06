@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 穿越毛伊岛的绿色隧道
-  subtitle: 竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)
+  title: 归来的草原巨兽
+  subtitle: 草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
