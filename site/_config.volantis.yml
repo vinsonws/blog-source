@@ -20,8 +20,8 @@ cover:
     home: true
     archive: true
     others: true
-  title: 艺术与韵律交汇之地
-  subtitle: 特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)
+  title: 惬意放松，尽享海岛时光
+  subtitle: 玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)
   features:
 ############################### Sidebar ############################### > start
 sidebar:
@@ -412,7 +412,7 @@ plugins:
     enable: true
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.     # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-    - https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
+    - https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4
   wordcount:
     enable: true
   busuanzi:
